@@ -14,7 +14,7 @@ Exploring Data Analytics to enhance problem-solving skills.
 - 💬 Ask me about PHP, Laravel, Java, Spring Boot, React.js  
 - 📫 How to reach me: prajwalg054@gmail.com  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: Coding! Coding! Coding! I Don't Like It I Avoid, But Coding Like Me I Can't Avoid 🚀  
+- ⚡ Fun fact: Coding! Coding! Coding! I Don't Like It I Avoid, But Coding Likes Me I Can't Avoid 🚀  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-gowda-324937278) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prajwalg054@gmail.com) 
