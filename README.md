@@ -26,8 +26,8 @@ Exploring Data Analytics to enhance problem-solving skills.
 ![](https://nirzak-streak-stats.vercel.app/?user=Mrprajwaldev&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrprajwaldev&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mrprajwaldev&theme=default&no-frame=false&no-bg=true&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mrprajwaldev&theme=default&no-frame=false&no-bg=true&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
